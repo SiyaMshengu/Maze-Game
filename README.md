@@ -23,11 +23,12 @@ Linux/ubuntu or Windows
 OPEN GL and its exe. file
 
 
+
 Installation
 OPENGL installation download the exe. file and run it in your Windows 
+-Exe file located in the game repository
 
 
 
 
-More features to be added.
 
